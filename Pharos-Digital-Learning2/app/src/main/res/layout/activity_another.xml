@@ -15,7 +15,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
     <TextView
-        android:text="another text"
+        android:text="another text modified"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
 </LinearLayout>
